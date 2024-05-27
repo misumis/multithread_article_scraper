@@ -1,0 +1,8 @@
+pandas
+newspaper4k
+trafilatura
+argparse
+tqdm
+atpbar
+typing-extensions
+xlrd
